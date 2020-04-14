@@ -1,0 +1,742 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Disco Party",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Vue Users Group",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Orlando Dev Meetup",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Yoga Class",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Breathing Meditation",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dancing Class",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "animal welfare",
+      "organizer": {
+        "user": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        }
+      },
+      "title": "Gregg's Event",
+      "description": "We'll do stuff",
+      "location": "Your House",
+      "date": "",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 442785,
+      "category": "nature",
+      "organizer": {
+        "id": "qwe123",
+        "name": "Vue JS"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 546264,
+      "category": "sustainability",
+      "organizer": {
+        "id": "qwe123",
+        "name": "Vue JS"
+      },
+      "title": "OK",
+      "description": "Hello",
+      "location": "pune",
+      "date": "2019-09-12T05:53:00.000Z",
+      "time": "22:00",
+      "attendees": []
+    },
+    {
+      "id": 98556,
+      "category": "education",
+      "organizer": {
+        "id": "qwe123",
+        "name": "Vue JS"
+      },
+      "title": "Spiritual Education",
+      "description": "Most necessary education",
+      "location": "World",
+      "date": "2019-09-13T11:30:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 607879,
+      "category": "health",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "Health Checkup",
+      "description": "Grandmother's health checkup",
+      "location": "mumbai",
+      "date": "2019-09-16T05:12:00.000Z",
+      "time": "21:00",
+      "attendees": []
+    },
+    {
+      "id": 213716,
+      "category": "sustainability",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "asd",
+      "description": "as",
+      "location": "as",
+      "date": "2019-09-04T05:20:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 178580,
+      "category": "education",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "sas",
+      "description": "as",
+      "location": "sas",
+      "date": "2019-09-11T05:21:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 243228,
+      "category": "food",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "sdf",
+      "description": "sdsd",
+      "location": "dsf",
+      "date": "2019-09-25T05:22:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 841493,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 26869,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 255306,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 823068,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 20036,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 686234,
+      "category": "nature",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "Shiva's Event",
+      "description": "Shiva the Boss",
+      "location": "Pune",
+      "date": "2019-09-16T05:28:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 146095,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 433441,
+      "category": "animal welfare",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "Shiva's Event",
+      "description": "Shiva the Boss",
+      "location": "pune",
+      "date": "2019-09-16T05:37:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 217344,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 233121,
+      "category": "nature",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 991236,
+      "category": "professional",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 94766,
+      "category": "sustainability",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 502689,
+      "category": "nature",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Shiva"
+        }
+      },
+      "title": "Shiva's Event",
+      "description": "Shiva the Boss",
+      "location": "pune",
+      "date": "2019-09-16T06:10:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 6049981,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1278640,
+      "category": "animal welfare",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "acs",
+      "description": "as",
+      "location": "asa",
+      "date": "2019-09-18T04:40:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 8053764,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6104855,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7191251,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 171752,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2827773,
+      "category": "housing",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "ds",
+      "description": "sd",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1216376,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1211745,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4901224,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3077838,
+      "category": "sustainability",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "nj",
+      "description": "jhj",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2739600,
+      "category": "",
+      "organizer": {
+        "user": {
+          "id": "qwe123",
+          "name": "Vijay"
+        }
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
